@@ -1,0 +1,153 @@
+body {
+color: red;
+font-size: 100%;
+font-family: "Comic Sans MS , cursive, sans-serif";
+background-color: ;
+background-image: url("../Images/Backgroud Blue.png");
+background-size:  cover ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+tr {
+ background-color: #C4C4C4;
+ margin: 0px;
+ padding: 0px;
+}
+
+td {color: #000000;
+ border:2px solid rgb(0,0,0);
+ border-radius: 0px 0px 0px 0px;
+}
+
+li {color: green;
+border:;
+margin: 15px;
+padding: 0px;
+text-shadow: white;
+font-size: 20px;
+}
+
+p {color: rgb(0, 0, 0);
+ text-align: left;
+ font-family: arial;
+ font-size: 18px;
+ font-variant:;
+ margin: 0px;
+ padding: 0px;
+}
+
+h3 {color: rgb(50, 240, 50);
+text-align: center;
+background-color: blue;
+font-family: Verdana;
+font-size: 24px;
+margin: 15px;
+padding: 0px;
+border: 3px solid aquamarine;
+border-radius: 10px 3px 10px 3px;
+}
+
+h2 {color: rgb(0, 50, 150) ;
+text-align: right;
+font-family: Verdana;
+font-size: 40px;
+border: 2px none darkcyan;
+border-radius: 0px 0px 0px 0px;
+margin: 10px;
+padding: 0px;
+}
+
+h1 {color:black;
+ text-align: center;
+ background-color: #00FA32;;
+ font-family: Georgia;
+ font-size: 50px;
+ font-weight: large;
+ border: 6px solid darkblue;
+ border-radius: 20px 0px 20px 0px;
+ margin: 10px;
+ padding: 0px;
+}
+
+ul {color: rgb(75, 50, 75);
+ margin: 0px;
+ padding: 0px;
+}
+
+.rood{
+ color: black;
+ background-color: ;
+ text-align: right;
+}
+
+
+li:hover {
+ font-size: 20px;
+}
+td:hover {
+ font-size: 20px;
+}
+p a:visited {
+ color: black;
+}
+a:link {
+ color: white;
+}
+a:visited {
+  color: gray;
+}
+
+a {
+  font-size: 30px;
+}
+
+#lol{
+color: rgb(77, 154, 95);
+text-align: center;
+background-color: blue;
+font-family: Verdana;
+font-size: 24px;
+margin: 15px;
+padding: 0px;
+border: 3px solid aquamarine;
+border-radius: 10px 3px 10px 3px;
+}
+
+#ter {
+ color: white;
+ border-color: violet;
+ text-align: left;
+ font-family: Georgia;
+ font-size: 20px;
+ padding: 20px;
+ margin: 0px;
+}
+
+#jjr  {
+ color: white;
+ text-align: center;
+ font-family: Georgia;
+ font-size: 25px;
+}
+
+#lot {
+ float: ;
+}
+
+#kan {color: gray;
+  padding: 8px;
+  border: 2px solid Gray;
+  display: inline-block;
+  border-radius: 10px 3px 10px 3px;
+  text-align: ;
+}
+
+#kon { width: 1450px;
+  text-align: right;
+  margin: 0 auto 0 auto;
+}
+
+#kik{
+  color: 
+}
